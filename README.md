@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ⚡ ANIMATION 1: Live Typewriter Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=50&lines=Hi+there%2C+I'm+Dhinesh+Kumar+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+Production-Ready+Web+Ecosystems;Specialized+in+React%2C+Node.js+%26+Databases" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=50&lines=Hi+there%2C+I'm+Dhinesh+Kumar+%F0%9F%91%8B;Software+Developer;Building+Production-Ready+Web+Ecosystems;Specialized+in+React%2C+Node.js+%26+Databases" alt="Typing Header" />
 
   <p align="center">
     <strong>B.Tech IT Student @ UCE Villupuram • Ex-Intern @ Ziga Infotech & Techno Hacks</strong><br>
